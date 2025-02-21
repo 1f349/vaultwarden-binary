@@ -21,14 +21,7 @@ Vaultwarden is an alternative implementation of the Bitwarden server API. It is 
 
 You can download the latest version of the Vaultwarden binary for your platform from the [releases page](https://github.com/1f349/vaultwarden-binary/releases).
 
-Available platforms:
-- Linux
-- Windows
-- macOS
-
 ## Installation
-
-### Linux
 
 1. Download the binary from the [releases page](https://github.com/1f349/vaultwarden-binary/releases).
 2. Make the binary executable:
